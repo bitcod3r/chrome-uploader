@@ -20,7 +20,7 @@
     "babyparse": "0.2.1",
     "blueimp-md5": "1.1.0",
     "commander": "2.5.0",
-    "lodash": "3.5.0",
+    "lodash": "2.4.1",
     "moment-timezone": "0.2.4",
     "react": "0.13.1",
     "sundial": "1.1.7",
