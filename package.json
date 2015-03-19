@@ -27,7 +27,7 @@
     "tidepool-platform-client": "0.16.3"
   },
   "devDependencies": {
-    "css-loader": "0.7.1",
+    "css-loader": "0.9.1",
     "gulp": "3.8.10",
     "gulp-jshint": "1.9.0",
     "gulp-react": "2.0.0",
